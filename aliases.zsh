@@ -24,6 +24,7 @@ alias composer="php -d memory_limit=-1 /usr/local/bin/composer"
 # JS
 alias nfresh="rm -rf node_modules/ package-lock.json && npm install"
 alias watch="npm run watch"
+alias hot="npm run hot"
 
 # Git
 alias gst="git status"
@@ -37,6 +38,7 @@ alias nuke="git clean -df && git reset --hard"
 alias pop="git stash pop"
 alias pull="git pull"
 alias push="git push"
+alias gpo="git push origin"
 alias resolve="git add . && git commit --no-edit"
 alias stash="git stash -u"
 alias unstage="git restore --staged ."
