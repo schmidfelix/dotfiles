@@ -61,16 +61,14 @@ cask 'google-chrome'
 cask 'gpg-suite'
 cask 'imageoptim'
 cask 'insomnia'
-cask 'phpmon'
 cask 'phpstorm'
 cask 'ray'
 cask 'slack'
 cask 'tableplus'
 cask 'telegram-desktop'
-cask 'the-unarchiver'
 cask 'tinkerwell'
 cask 'transmit'
-cask 'zoom'
+cask 'zoomus'
 
 # Quicklook
 cask 'qlmarkdown'
@@ -90,4 +88,4 @@ cask 'font-source-serif-pro'
 mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
 mas 'Tweetbot', id: 1384080005
-mas 'The Unarchiver', id: 425424353
+mas 'Pages', id:409201541
